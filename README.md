@@ -1,6 +1,6 @@
 ![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
 <h1 align="center">Hi 👋, I'm Mitch</h1>
-<h3 align="center">A passionate full stack web developer from Louisville KY.</h3>
+<h3 align="center">A passionate full-stack web developer from Louisville KY.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 
@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mitchembry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitchembry" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mitchell-embry-362239213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitchell-embry-362239213" height="30" width="40" /></a>
 <a href="https://fb.com/mitch.embry.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mitch.embry.1" height="30" width="40" /></a>
 <a href="https://instagram.com/mitchsteamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mitchsteamy" height="30" width="40" /></a>
+<a href="https://twitter.com/mitchembry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitchembry" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mitchell-embry-362239213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitchell-embry-362239213" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/just friends podcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="just friends podcast" height="30" width="40" /></a>
 <a href="/https://anchor.fm/s/9c557a0c/podcast/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anchor.fm/s/9c557a0c/podcast/rss" height="30" width="40" /></a>
 </p>
