@@ -1,7 +1,7 @@
 [![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)]
 <h1 align="center">Hi 👋, I'm Mitch</h1>
 <h3 align="center">A passionate full stack web developer from Louisville KY.</h3>
-<img align="right" alt="coding" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="coding" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 I’m currently working on **Netflix Clone in Next.js**
