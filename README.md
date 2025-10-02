@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 
-- 🔭 I’m currently working on **Healthful Experimental Store in React.js**
+- 🔭 I’m currently working on **MedSMA℞T Adventures in Pharmacity in Unity**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Unity and C#**
 
-- 💬 Ask me about **React, ReactNative**
+- 💬 Ask me about **React, ReactNative, Next.js**
 
 - 📫 How to reach me **mitch.embry61@gmail.com**
 
