@@ -68,8 +68,8 @@
   </a> 
 </p>
 
-[![Mitchsteamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchsteamy&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+// [![Mitchsteamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchsteamy&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mitchsteamy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitchsteamy&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+// [![Mitchsteamy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitchsteamy&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mitchsteamy)
+// ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mitchsteamy)
