@@ -59,8 +59,8 @@
   </a> 
 </p>
 
-[![Mitchsteamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchsteamy&show_icons=true&locale=en&layout=compact)](https://github.com/mitchsteamy/github-readme-stats-repository)]
+[![Mitchsteamy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchsteamy&show_icons=true&locale=en&layout=compact)](https://github.com/mitchsteamy/github-readme-stats-repository)
 
-[![Mitchsteamy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitchsteamy&show_icons=true&locale=en&layout=compact)](https://github.com/mitchsteamy/github-readme-stats-repository)]
+[![Mitchsteamy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitchsteamy&show_icons=true&locale=en&layout=compact)](https://github.com/mitchsteamy/github-readme-stats-repository)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitchsteamy&" alt="mitchsteamy" /></p>
