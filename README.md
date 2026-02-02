@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Unity and C#**
 
-- 💬 Ask me about **React, ReactNative, Next.js**
+- 💬 Ask me about **React, ReactNative, Next.js, Node.js**
 
 - 📫 How to reach me **mitch.embry61@gmail.com**
 
