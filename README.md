@@ -25,16 +25,13 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/mitchell-embry-362239213" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  <a href="https://twitter.com/mitchembry" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
-  </a>
-  <a href="https://instagram.com/mitchsteamy" target="_blank" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
-  </a>
-  <a href="https://fb.com/mitch.embry.1" target="_blank" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/mitchell-embry-362239213" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin-right:10px;" />
+  </a><a href="https://twitter.com/mitchembry" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" style="margin-right:10px;" />
+  </a><a href="https://instagram.com/mitchsteamy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" style="margin-right:10px;" />
+  </a><a href="https://fb.com/mitch.embry.1" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" width="40" />
   </a>
 </p>
