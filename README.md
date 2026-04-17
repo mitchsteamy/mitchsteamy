@@ -11,8 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Dindin** and **Reely**
-- 🎮 Also building **MedSMA℞T Adventures in Pharmacity** in **Unity**
+- 🔭 Currently working on **Dindin** and **Reely** in **React Native**
 - 🌱 Currently learning **Unity** and **C#**
 - 💬 Ask me about **React, React Native, Next.js, Node.js**
 - 📫 Reach me at **mitch.embry61@gmail.com**
