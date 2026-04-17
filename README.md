@@ -7,14 +7,18 @@
 
 ## 👨‍💻 About Me
 
+<div align="left">
+  <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" />
+  
 - 🔭 Currently working on **Dindin** and **Reely**  
 - 🎮 Also building **MedSMA℞T Adventures in Pharmacity** in **Unity**  
 - 🌱 Currently learning **Unity** and **C#**  
 - 💬 Ask me about **React, React Native, Next.js, Node.js**  
 - 📫 Reach me at **mitch.embry61@gmail.com**
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" />
+</div>
 
+<br clear="right"/>
 
 ---
 
