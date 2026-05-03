@@ -57,11 +57,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mitchsteamy&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mitchsteamy&theme=github_dark" alt="GitHub stats" />
 </p>
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitchsteamy&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mitchsteamy&theme=github_dark" alt="Top languages" />
 </p>
 
 <p align="left">
