@@ -14,10 +14,10 @@
 <div>
   <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" alt="Coding gif" />
 
-- 🔭 Currently working on **Dindin** and **Reely**  
-- 🎮 Also building **StoryBloom** in **Next.js**  
-- 🌱 Currently learning **Unity** and **C#**  
-- 💬 Ask me about **React, React Native, Next.js, Node.js**  
+- 🔭 Currently working on **StoryBloom** in **Next.js**
+- 🎮 Also building **Dindin** and **Reely** in **React Native**
+- 🌱 Currently learning **Unity** and **C#**
+- 💬 Ask me about **React, React Native, Next.js, Node.js**
 - 📫 Reach me at **mitch.embry61@gmail.com**
 
 </div>
